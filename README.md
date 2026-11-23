@@ -2,7 +2,9 @@
 
 Car-data cleaning, price regression and K-nearest-neighbour classification. This is separate from the smaller Code Alpha car dataset.
 
-## Contents
+## Project files and local data inputs
+
+Data files listed below are local inputs, not bundled public downloads. See `PUBLIC_DATA_SETUP.md`.
 
 - `assigment1_clean_step1.ipynb`
 - `modeling.ipynb`
